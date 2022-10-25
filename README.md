@@ -1,0 +1,2 @@
+# README
+personal python practice
